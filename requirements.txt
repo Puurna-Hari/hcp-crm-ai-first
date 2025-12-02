@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+python-dotenv
+pydantic
+langgraph>=0.2.0
+langchain-groq
+groq
+asyncio
